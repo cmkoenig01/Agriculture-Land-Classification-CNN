@@ -1,0 +1,14 @@
+# Core numerical & scientific computing
+numpy
+
+# Deep learning frameworks
+tensorflow
+torch
+torchvision
+
+# Data handling & visualization
+matplotlib
+scikit-learn
+
+# Utilities
+tqdm
